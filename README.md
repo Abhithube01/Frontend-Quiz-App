@@ -1,0 +1,2 @@
+# Frontend Quiz App
+ This repository contains a frontend quiz application developed using React.js. The app allows users to take quizzes on various topics, providing interactive and responsive UI components. Leveraging React's component-based architecture, the app offers a seamless user experience with dynamic rendering of questions and instant feedback on answers. Built with modern web technologies, this project serves as a comprehensive example of building scalable and engaging quiz applications using React.js.
