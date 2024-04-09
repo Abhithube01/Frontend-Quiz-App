@@ -1,7 +1,5 @@
 # Frontend Mentor - Frontend quiz app solution
 
-This is a solution to the [Frontend quiz app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/frontend-quiz-app-BE7xkzXQnU). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -32,9 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Olatoyan/frontend-quiz-app](https://github.com/Olatoyan/frontend-quiz-app)
-- Live Site URL: [https://toyan-quiz.netlify.app/](https://toyan-quiz.netlify.app/)
-
+- Solution URL: [https://github.com/Abhithube01/Frontend-Quiz-App](https://github.com/Olatoyan/frontend-quiz-app)
 ## My process
 
 ### Built with
@@ -47,5 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@olatoyan](https://www.frontendmentor.io/profile/olatoyan)
-- Twitter - [@Toyan](https://www.twitter.com/_annonnymouss_)
+- Twitter - [@AbhinavThube](https://twitter.com/thube_abhinav)
